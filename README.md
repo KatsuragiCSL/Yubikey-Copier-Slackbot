@@ -1,7 +1,11 @@
 # Yubikey-Copier-Slackbot
 
 ## Why catching yubikey OTP in Slack?
-Many enterprise environment make use of Yubikey as hardware 2FA. For time to time, people keep accidentally triggering the Yubikey touch and sending the OTP to somewhere, mostly, Slack channels. Then they have to immediately delete the OTP embarassingly.    
+Many enterprise environment make use of Yubikey as hardware 2FA. For time to time, people keep accidentally triggering the Yubikey touch and sending the OTP to somewhere, mostly, Slack channels. Then they have to immediately delete the OTP embarassingly.  
+A typical example:
+![image](https://user-images.githubusercontent.com/44156690/222183628-f811fb29-ceb6-482d-b438-2902d1f7036c.png)
+![image](https://user-images.githubusercontent.com/44156690/222183666-8066188b-9211-4406-8dfd-33c125155eda.png)
+
 I could not resist to create a Slack app to automatically capture the OTP and humiliate them (in a friendly way).
 
 ## Configuration
