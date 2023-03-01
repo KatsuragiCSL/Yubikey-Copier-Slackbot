@@ -8,7 +8,7 @@ I could not resist to create a Slack app to automatically capture the OTP and hu
 None. Check out the steps of creating a Slack app and simply run the script somewhere when the Slack app setup is done.
 
 ## Security
-While the OTP is somewhat sensitive, it is not the end of the day if you accidentally exposed it. See [this post]()
+While the OTP is somewhat sensitive, it is not the end of the day if you accidentally exposed it. See [this post](https://slack.dev/bolt-python/tutorial/getting-started)
 
 ## Demo
 (Obviously not an output from my own Yubikey with critical usage)
